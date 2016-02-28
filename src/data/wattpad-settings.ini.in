@@ -1,0 +1,12 @@
+#[aggregation_category]
+#type = list
+#defaultValue = 0
+#_displayName = What category to show to an aggregator?
+#_displayValues = General;Random;Romance;Science Fiction;Fantasy;Humor;Paranormal;Mistery / Thriller;Horror;Adventure;Historical Fiction;Teen Fiction;Fan Fiction;Poetry;Short Story;General Fiction;ChickLit;Action;Vampire;Werewolf;Spiritual;Non-Fiction;Classics
+#Doesn't work because the categories are dynamic
+
+[aggregation_type]
+type = list
+defaultValue = 0
+_displayName = What stories to show to an aggregator?
+_displayValues = Hot;New (Will only work with 1 word - tag);Top in category (non-empty query)

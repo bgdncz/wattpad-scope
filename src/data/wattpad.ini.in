@@ -1,0 +1,15 @@
+[ScopeConfig]
+ScopeRunner=./node_modules/unity-js-scopes/bin/unity-js-scopes-launcher %S %R
+_DisplayName=Wattpad Scope
+_Description=Find new, interesting stories on wattpad
+Author = Bogdan Cuza <bogdan.cuza@hotmail.com>
+Icon = icon.png
+Keywords = books
+Art = screenshot.png
+
+[Appearance]
+PageHeader.Logo = logo.svg
+PageHeader.DividerColor = #f89c34
+ForegroundColor = #f89c34
+PreviewButtonColor = #f89c34
+BackgroundColor = #ffffff
